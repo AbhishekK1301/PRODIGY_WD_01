@@ -20,19 +20,6 @@ The navigation bar should have a **fixed position** and remain visible on all pa
 2. Open the `index.html` file in any browser.  
 3. Scroll or hover over the menu items to see the interactive effects.  
 
-## 📸 Output Preview
-*(Add a screenshot or short GIF of your project here)*  
+ 
 
-## 🔗 LinkedIn Post
-After completing this task, share your learnings on LinkedIn mentioning:  
-> Completed **Task 01 - Interactive Navigation Menu** under **Prodigy InfoTech Web Development Internship**.  
-> Learned about DOM manipulation, scroll detection, and styling for interactive UI components.  
 
----
-
-### 💡 Repository Naming Format:
-`PRODIGY_WD_01`
-
----
-
-Would you like me to make a **LinkedIn post caption** for this task too (you can just copy-paste it)?
